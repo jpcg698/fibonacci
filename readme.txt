@@ -1,6 +1,6 @@
 Hello, I am applying for a front end position but I do know some express and have made REST APIs before so here I go
 
-To run write npm run start or node index.js and go to the specified port since Im assuming this is being run on localhost.
+To run write npm install to install any dependencies(express) and npm run start or node index.js and go to the specified port since Im assuming this is being run on localhost.
 Then just add a number after the port like http://localhost:3000/3 to get that fibonacci number
 
 There were not that many technichal decisions just a basic while loop chekcing to see if the the latest fibonacci number generated is the requested one.
